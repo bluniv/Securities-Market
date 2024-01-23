@@ -16,3 +16,12 @@ In theory, an NPV is “good” if it is greater than zero
 The internal rate of return (IRR) is a metric used in financial analysis to estimate the profitability of potential investments. 
 It is the annual rate of growth that an investment is expected to generate.
 IRR is calculated using the same concept as net present value (NPV), except it sets the NPV equal to zero.
+
+### 3. Beta 
+
+Beta (β) is a measure of the volatility—or systematic risk—of a security or portfolio compared to the market as a whole (usually the S&P 500 or Nifty). 
+![Screenshot 2024-01-23 173302](https://github.com/bluniv/Securities-Market/assets/152321937/1f657afb-e340-46d0-aa23-4c3f057d5a2b)
+
+Stocks with betas higher than 1.0 can be interpreted as more volatile than the Market.
+
+Ultimately, an investor is using beta to try to gauge how much risk a stock is adding to a portfolio.
