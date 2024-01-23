@@ -1,4 +1,4 @@
-# Securities Market
+# Securities Market 
 
 1. A project with a 3 year life and a cost of Rs. 1,00,000 generates revenue of
 Rs.25000 in year 1, Rs.45000 in year 2, Rs 65000 in year 3. If the discount rate
