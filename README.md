@@ -6,7 +6,8 @@ NPV analysis is used to help determine how much an investment, project, or any s
 
 In addition to factoring all revenues and costs, it also takes into account the timing of each cash flow that can result in a large impact on the present value of an investment. For example, it’s better to see cash inflows sooner and cash outflows later, compared to the opposite.
 
-\text{NPV} = \frac{R_{t}}{(1+i)^{t}}
+![Screenshot 2024-01-23 172910](https://github.com/bluniv/Securities-Market/assets/152321937/3386208b-a3fb-4fc0-a394-1973d0cab343)
+
 
 In theory, an NPV is “good” if it is greater than zero
 
