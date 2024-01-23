@@ -31,6 +31,7 @@ Rs.97000,Rs.105000 and Rs.110000 respectively
   | 4 | 110000 |
 
 7.  Calculate IRR
+
   | Year | Cash Flow |
   | ------------- | ------------- |
   | 0 | 9000 |  
