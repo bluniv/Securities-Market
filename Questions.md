@@ -22,7 +22,7 @@ Rs.97000,Rs.105000 and Rs.110000 respectively
  
 6. Calculate NPV at 15% and also calculate IRR
 
-       | Year | Cash Flow |
+   | Year | Cash Flow |
        | ------------- | ------------- |
        | 0 | 225000 |  
        | 1 | 48000 |
@@ -30,7 +30,7 @@ Rs.97000,Rs.105000 and Rs.110000 respectively
        | 3 | 95000 | 
        | 4 | 110000 |
 
-7.  Calculate IRR
+8.  Calculate IRR
 
   | Year | Cash Flow |
   | ------------- | ------------- |
