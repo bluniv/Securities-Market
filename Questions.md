@@ -20,5 +20,11 @@ Rs.97000,Rs.105000 and Rs.110000 respectively
 | Bank of America | $28.23B | $1.61B | 15.2B | $80 |
 | NVIDIA | $3.67B | $0 | 0.841B | $110 |
  
-6. Calculate NPV at 15% and also calculate IRR and then recalculate the NPV
-using the IRR value
+6. Calculate NPV at 15% and also calculate IRR
+| Year | Cash Flow |
+| ------------- | ------------- |
+| 0|225000|
+| 1|48000|
+|2|67000|
+|3|95000|
+|4|110000|
